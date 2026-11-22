@@ -2,7 +2,7 @@
 <h3 align="center">BCA Student • Developer • Learner</h3>
 
 <p align="center">
-  <img src="https://github.com/akshaykumarjogi/akshaykumarjogi/blob/main/.github/workflows/gif1.gif" alt="Coding GIF" width="400">
+  <img src="https://github.com/akshay-kumar-jogi/akshay-kumar-jogi/blob/main/.github/workflows/gif1.gif" alt="Coding GIF" width="400">
 </p>
 
 ---
@@ -57,24 +57,24 @@ I'm a BCA student focused on building practical web applications and strengtheni
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshaykumarjogi&theme=github_dark&utcOffset=5.5" alt="Profile Summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay-kumar-jogi&theme=github_dark&utcOffset=5.5" alt="Profile Summary" />
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="62%" valign="middle">
-      <img width="100%" src="https://streak-stats.demolab.com?user=akshaykumarjogi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com?user=akshay-kumar-jogi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
     </td>
     <td align="center" width="38%" valign="middle">
-      <img width="100%" src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=akshaykumarjogi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats-bice-sigma-37.vercel.app/api/top-langs/?username=akshay-kumar-jogi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshaykumarjogi/akshaykumarjogi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshaykumarjogi/akshaykumarjogi/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akshaykumarjogi/akshaykumarjogi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshay-kumar-jogi/akshay-kumar-jogi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshay-kumar-jogi/akshay-kumar-jogi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akshay-kumar-jogi/akshay-kumar-jogi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" >
 </picture>
 
 ---
